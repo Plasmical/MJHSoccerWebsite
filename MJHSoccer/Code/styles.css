@@ -203,7 +203,6 @@ ul {
 }
 
 /* HOME STYLES */
-
 .two-column-wrapper {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -298,7 +297,6 @@ ul {
 }
 
 /* MATCHES 18-19 STYLES */
-
 .schedule {
   margin-top: 20px;
   margin-left: 20px;
@@ -397,7 +395,6 @@ table td#Loss {
 }
 
 /* The team styles */
-
 .two-columns-even {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -488,4 +485,6 @@ table td#Loss {
 
 .GoaliesRow {
   margin-left: 20px;
+}
+=======
 }
