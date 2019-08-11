@@ -210,11 +210,11 @@ ul {
 
 .overview {
   background-color: #002366;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 50px;
-  margin-bottom: 307px;
+  margin-bottom: 313px;
 }
 
 .overview-title {
@@ -234,7 +234,7 @@ ul {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 10px;
   margin-top: 50px;
   padding: 20px;
@@ -246,7 +246,7 @@ ul {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 10px;
   margin-top: 20px;
   padding: 20px;
@@ -256,10 +256,10 @@ ul {
 
 .alumni-of-week {
   background-color: #002366;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: -287px;
+  margin-top: -293px;
 }
 
 .alumni-title {
@@ -277,9 +277,10 @@ ul {
 
 .cool-pictures {
   background-color: #002366;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 .cool-pictures-title {
@@ -463,4 +464,27 @@ table td#Loss {
   text-decoration: underline;
   text-decoration-color: #002366;
   color: #002366;
+}
+
+/* Previous Roster Styles */
+
+.heading1left {
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.rosterTeam {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 20px;
+}
+
+.GoaliesRow {
+  margin-left: 20px;
+}
+=======
 }
