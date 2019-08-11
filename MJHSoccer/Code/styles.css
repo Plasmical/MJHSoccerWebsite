@@ -482,8 +482,8 @@ table td#Loss {
 }
 
 .linksTeam a:hover {
-  border-bottom: 1px solid #002366;
-  color: #002366;
+  border-bottom: 1px solid white;
+  color: white;
 }
 
 /* Roster Styles */
