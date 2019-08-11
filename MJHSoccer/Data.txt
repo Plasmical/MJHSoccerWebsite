@@ -35,7 +35,7 @@ Pictures:
 
 Roster:
 Keepers -> |Garrett Gleason|, Gabe Minkin
-Defenders -> |Bradley Bourgeois, Gavin Brackley, Ben Domangue, Jackson Raymond|, Nickolas Mooney, Jacob Wonderlich
+Defenders -> |Bradley Bourgeois, Gavin Brackley, Ben Domangue, Jackson Raymond|, Nicolas Mooney, Jacob Wonderlich
 Midfielders -> |Matthew Nicklas, Hayes Domangue, Junah Butcher, Andrew Dum|, Blaise Polk, Logan Alonso, Thomas Howard, Jacob Lee, Austin Matherne, Gabe Minkin
 Attackers -> |Cruse Couvillion, Jack Watkins|, Josh ___, Sean Dwyer, Roman Spolianksy
 
