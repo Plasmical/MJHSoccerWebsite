@@ -41,7 +41,7 @@ body {
 }
 
 .nav-link-wrapper {
-  height: 22px;
+  height: 25px;
   border-bottom: 1px solid transparent transition: border-bottom;
   color: red;
 }
@@ -84,7 +84,7 @@ body {
 .nav-link-wrapper-down a {
   float: none;
   color: red;
-  padding: 12px 16px;
+  padding: 15px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -109,7 +109,7 @@ body {
   background-color: inherit;
   font-family: inherit;
   text-transform: uppercase;
-  padding: 12px 16px;
+  padding: 15px 16px;
   height: 20px;
 }
 
@@ -129,7 +129,7 @@ body {
   border: 1px;
   border-color: #002366;
   color: red;
-  padding: 12px 16px;
+  padding: 15px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
@@ -297,6 +297,13 @@ ul {
   padding: 20px;
 }
 
+/* ABOUT STYLES */
+
+table td#about {
+  background-color: red;
+  color: #002366;
+}
+
 /* MATCHES 18-19 STYLES */
 
 .schedule {
@@ -407,7 +414,7 @@ table td#Loss {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-right: 10px;
   margin-top: 20px;
   padding: 20px;
@@ -419,7 +426,7 @@ table td#Loss {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 10px;
   margin-top: 20px;
   padding: 20px;
@@ -431,7 +438,7 @@ table td#Loss {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-right: 10px;
   margin-top: 20px;
   padding: 20px;
@@ -439,11 +446,17 @@ table td#Loss {
   text-align: center;
 }
 
+.cool-picturesT {
+  background-color: #002366;
+  border: 5px solid red;
+  margin-top: 20px;
+}
+
 .last-gameT {
   background-color: #002366;
   font-size: 18px;
   color: white;
-  border: 2px solid red;
+  border: 5px solid red;
   margin-left: 10px;
   margin-top: 20px;
   padding: 20px;
@@ -452,9 +465,10 @@ table td#Loss {
 }
 
 .linksTeam {
-  height: 22px;
+  height: s5px;
   border-bottom: 1px solid transparent transition: border-bottom;
   color: red;
+  margin-top: 20px;
 }
 
 .linksTeam a {
@@ -464,8 +478,7 @@ table td#Loss {
 }
 
 .linksTeam a:hover {
-  text-decoration: underline;
-  text-decoration-color: #002366;
+  border-bottom: 1px solid #002366;
   color: #002366;
 }
 
