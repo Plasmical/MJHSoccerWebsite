@@ -308,7 +308,6 @@ ul {
   background-color: #002366;
   border: 5px solid red;
   margin-top: 20px;
-  margin-bottom: 20px;
   margin-right: 10px;
 }
 
@@ -316,7 +315,6 @@ ul {
   background-color: #002366;
   border: 5px solid red;
   margin-top: 20px;
-  margin-bottom: 20px;
   margin-left: 10px;
 }
 
@@ -351,9 +349,30 @@ ul {
   padding: 100px;
 }
 
+.Previousresults {
+  color: white;
+  border: 5px solid red;
+  background-color: #002366;
+  margin-right: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+table td#aboutHead {
+  background-color: white;
+  color: #002366;
+  font-size: 34px;
+  border-color: red;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 table td#about {
   background-color: red;
   color: #002366;
+  font-size: 24px;
+  text-align: center;
 }
 
 /* MATCHES 18-19 STYLES */
