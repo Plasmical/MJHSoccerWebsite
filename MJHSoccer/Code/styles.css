@@ -212,7 +212,6 @@ ul {
 .overview {
   background-color: #002366;
   border: 5px solid red;
-  margin-left: 20px;
   margin-right: 20px;
   margin-top: 50px;
   margin-bottom: 313px;
@@ -258,7 +257,6 @@ ul {
 .alumni-of-week {
   background-color: #002366;
   border: 5px solid red;
-  margin-left: 20px;
   margin-right: 20px;
   margin-top: -293px;
 }
@@ -281,7 +279,6 @@ ul {
   border: 5px solid red;
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 20px;
 }
 
 .cool-pictures-title {
@@ -295,6 +292,23 @@ ul {
   font-size: 20px;
   color: white;
   padding: 20px;
+}
+
+.DonateButton {
+  height: 72px;
+  width: 240px;
+  background-color: #002366;
+  border: 3px solid red;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.DonateButton:hover {
+  background-color: white;
+  border-color: #002366;
+  color: red;
 }
 
 /* ABOUT STYLES */
