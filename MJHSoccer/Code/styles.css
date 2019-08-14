@@ -49,7 +49,7 @@ body {
 .nav-link-wrapper a {
   color: red;
   text-decoration: none;
-  transition-duration: 0.5s;
+  transition-duration: 0.04s;
 }
 
 .nav-link-wrapper:hover {
@@ -301,8 +301,6 @@ ul {
   border: 3px solid red;
   color: white;
   font-size: 20px;
-  text-align: center;
-  margin: 0 auto;
 }
 
 .DonateButton:hover {
@@ -563,7 +561,7 @@ table td#Loss {
 .linksTeam a {
   color: red;
   text-decoration: none;
-  transition-duration: 0.5s;
+  transition-duration: 0.04s;
 }
 
 .linksTeam a:hover {
