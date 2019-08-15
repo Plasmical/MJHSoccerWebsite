@@ -343,6 +343,11 @@ ul {
   padding: 20px;
 }
 
+.abtSchoolLinks a {
+  font-weight: bold;
+  color: white;
+}
+
 .AbtCoachesText {
   font-size: 20px;
   color: white;
@@ -571,13 +576,34 @@ table td#Loss {
 
 /* Roster Styles */
 
+.rosterColumn {
+  border: 5px solid #002366;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.rosterHeading {
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.rosterHeadingRight {
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  margin-left: 20px;
+}
+
 .heading1left {
   font-size: 30px;
   font-weight: bold;
   color: red;
   text-align: left;
   margin-left: 20px;
-  margin-top: 20px;
 }
 
 .rosterTeam {
